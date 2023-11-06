@@ -1,5 +1,5 @@
 # clash_for_windows
-Fndroid/clash_for_windows_pkg/releases 最后备份文件，文件未进行任何修改，可以进行md5比对。
+Fndroid/clash_for_windows_pkg/releases 存档文件
 
 ## 下载
 
